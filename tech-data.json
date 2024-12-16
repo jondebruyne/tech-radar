@@ -268,7 +268,7 @@
     },
     {
       "id": "adopt",
-      "name": "USE",
+      "name": "ADOPT",
       "color": "#009EB0",
       "description": "Technologies that are actively adopted"
     },
