@@ -3,252 +3,162 @@
     {
       "timeline": [
         {
-          "moved": 1,
-          "ringId": "use",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Cloud Computing is widely adopted in production."
-        }
-      ],
-      "key": "cloud-computing",
-      "id": "cloud-computing",
-      "title": "Cloud Computing",
-      "quadrant": "technologies",
-      "description": "Emerging technology for scalable and distributed computing."
-    },
-    {
-      "timeline": [
-        {
           "moved": 0,
           "ringId": "adopt",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "5G is actively being adopted for faster connectivity."
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
         }
       ],
-      "key": "5g",
-      "id": "5g",
-      "title": "5G",
-      "quadrant": "technologies",
-      "description": "Fifth-generation technology for broadband cellular networks."
-    },
-    {
-      "timeline": [
-        {
-          "moved": -1,
-          "ringId": "trial",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Quantum Computing is still in the trial phase."
-        }
-      ],
-      "key": "quantum-computing",
-      "id": "quantum-computing",
-      "title": "Quantum Computing",
-      "quadrant": "technologies",
-      "description": "A new area of computing based on quantum mechanics."
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "assess",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Blockchain is under assessment for its future uses."
-        }
-      ],
-      "key": "blockchain",
-      "id": "blockchain",
-      "title": "Blockchain",
-      "quadrant": "technologies",
-      "description": "A decentralized ledger technology that powers cryptocurrencies."
-    },
-    {
-      "timeline": [
-        {
-          "moved": 1,
-          "ringId": "use",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Agile Development is widely used in modern software development."
-        }
-      ],
-      "key": "agile-development",
-      "id": "agile-development",
-      "title": "Agile Development",
-      "quadrant": "processes",
-      "description": "An iterative approach to software development focused on collaboration."
-    },
-    {
-      "timeline": [
-        {
-          "moved": 1,
-          "ringId": "adopt",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "DevOps is actively adopted for continuous integration and delivery."
-        }
-      ],
-      "key": "devops",
-      "id": "devops",
-      "title": "DevOps",
-      "quadrant": "processes",
-      "description": "A set of practices that automates and integrates software development and IT operations."
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "trial",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Waterfall is still being trialed in certain projects."
-        }
-      ],
-      "key": "waterfall",
-      "id": "waterfall",
-      "title": "Waterfall",
-      "quadrant": "processes",
-      "description": "A sequential design process commonly used in software development."
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "assess",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Six Sigma is under assessment for its effectiveness in software development."
-        }
-      ],
-      "key": "six-sigma",
-      "id": "six-sigma",
-      "title": "Six Sigma",
-      "quadrant": "processes",
-      "description": "A set of techniques for process improvement and reduction of defects."
-    },
-    {
-      "timeline": [
-        {
-          "moved": 1,
-          "ringId": "use",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "React is widely adopted as a front-end framework."
-        }
-      ],
-      "key": "react",
-      "id": "react",
-      "title": "React",
-      "quadrant": "frameworks",
-      "description": "A JavaScript library for building user interfaces."
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "adopt",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Vue.js is actively adopted for modern web development."
-        }
-      ],
-      "key": "vue.js",
-      "id": "vue.js",
-      "title": "Vue.js",
-      "quadrant": "frameworks",
-      "description": "A progressive JavaScript framework for building user interfaces."
-    },
-    {
-      "timeline": [
-        {
-          "moved": -1,
-          "ringId": "trial",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Angular is still in the trial phase for some teams."
-        }
-      ],
-      "key": "angular",
-      "id": "angular",
-      "title": "Angular",
-      "quadrant": "frameworks",
-      "description": "A platform for building mobile and desktop web applications."
-    },
-    {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "assess",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Ember.js is under assessment due to its complexity."
-        }
-      ],
-      "key": "ember.js",
-      "id": "ember.js",
-      "title": "Ember.js",
-      "quadrant": "frameworks",
-      "description": "An opinionated framework for building ambitious web applications."
-    },
-    {
-      "timeline": [
-        {
-          "moved": 1,
-          "ringId": "use",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Python is widely used for data science, web development, and automation."
-        }
-      ],
-      "key": "python",
-      "id": "python",
-      "title": "Python",
+      "key": "javascript",
+      "id": "javascript",
+      "title": "JavaScript",
       "quadrant": "languages",
-      "description": "A high-level, interpreted programming language known for its simplicity."
+      "links": [
+        {
+          "url": "https://www.javascript.com/",
+          "title": "Learn more"
+        },
+        {
+          "url": "https://www.typescriptlang.org/",
+          "title": "TypeScript"
+        }
+      ],
+      "description": "Excepteur **sint** occaecat *cupidatat* non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n```ts\nconst x = \"3\";\n```\n"
     },
     {
       "timeline": [
         {
-          "moved": 0,
+          "moved": -1,
           "ringId": "adopt",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "TypeScript is actively adopted to enhance JavaScript development."
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
         }
       ],
       "key": "typescript",
       "id": "typescript",
       "title": "TypeScript",
       "quadrant": "languages",
-      "description": "A superset of JavaScript that adds static types."
+      "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat"
     },
     {
       "timeline": [
         {
-          "moved": -1,
-          "ringId": "trial",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Go is being trialed for its concurrency and performance features."
+          "moved": 1,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
         }
       ],
-      "key": "go",
-      "id": "go",
-      "title": "Go",
-      "quadrant": "languages",
-      "description": "A statically typed compiled language designed for simplicity and efficiency."
+      "links": [
+        {
+          "url": "https://webpack.js.org/",
+          "title": "Learn more"
+        }
+      ],
+      "key": "webpack",
+      "id": "webpack",
+      "title": "Webpack",
+      "quadrant": "frameworks"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://reactjs.org/",
+          "title": "Learn more"
+        }
+      ],
+      "key": "react",
+      "id": "react",
+      "title": "React",
+      "quadrant": "frameworks"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z"
+        }
+      ],
+      "key": "code-reviews",
+      "id": "code-reviews",
+      "title": "Code Reviews",
+      "quadrant": "process"
     },
     {
       "timeline": [
         {
           "moved": 0,
           "ringId": "assess",
-          "date": "2024-12-12T00:00:00.000Z",
-          "description": "Perl is under assessment as its use declines."
+          "date": "2020-08-06T00:00:00.000Z"
         }
       ],
-      "key": "perl",
-      "id": "perl",
-      "title": "Perl",
-      "quadrant": "languages",
-      "description": "A high-level, interpreted language known for its string manipulation capabilities."
+      "key": "mob-programming",
+      "id": "mob-programming",
+      "title": "Mob Programming",
+      "quadrant": "process"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z"
+        }
+      ],
+      "key": "docs-like-code",
+      "id": "docs-like-code",
+      "title": "Docs-like-code",
+      "quadrant": "process"
+    },
+    {
+      "timeline": [
+        {
+          "ringId": "hold",
+          "date": "2020-08-06T00:00:00.000Z"
+        }
+      ],
+      "key": "force-push",
+      "id": "force-push",
+      "title": "Force push to master",
+      "quadrant": "process"
+    },
+    {
+      "timeline": [
+        {
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "long description"
+        },
+        {
+          "ringId": "trial",
+          "date": "2020-07-05T00:00:00.000Z",
+          "description": "long description"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://github.com",
+          "title": "Learn more"
+        }
+      ],
+      "key": "github-actions",
+      "id": "github-actions",
+      "title": "GitHub Actions",
+      "quadrant": "infrastructure"
     }
   ],
   "quadrants": [
     {
-      "id": "technologies",
-      "name": "Technologies"
-    },
-    {
-      "id": "processes",
-      "name": "Processes"
+      "id": "infrastructure",
+      "name": "Infrastructure"
     },
     {
       "id": "frameworks",
@@ -257,32 +167,36 @@
     {
       "id": "languages",
       "name": "Languages"
+    },
+    {
+      "id": "process",
+      "name": "Process"
     }
   ],
   "rings": [
     {
-      "id": "use",
-      "name": "USE",
-      "color": "#5BA300",
-      "description": "Technologies that are widely used in production"
-    },
-    {
       "id": "adopt",
       "name": "ADOPT",
-      "color": "#009EB0",
-      "description": "Technologies that are actively adopted"
+      "color": "#5BA300",
+      "description": "Commodi accusantium culpa sed itaque excepturi rem eum nulla possimus."
     },
     {
-      "id": "trial",
-      "name": "TRIAL",
-      "color": "#C7BA00",
-      "description": "Technologies that are being trialed or tested"
+      "id": "prueba",
+      "name": "PRUEBA",
+      "color": "#009EB0",
+      "description": "Recusandae possimus ipsum dolores."
     },
     {
       "id": "assess",
       "name": "ASSESS",
+      "color": "#C7BA00",
+      "description": "In asperiores repellat error recusandae et adipisci laborum porro."
+    },
+    {
+      "id": "hold",
+      "name": "HOLD",
       "color": "#E09B96",
-      "description": "Technologies under assessment or should be avoided"
+      "description": "Esse mollitia in."
     }
   ]
 }
