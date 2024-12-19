@@ -4,7 +4,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
         }
@@ -29,7 +29,7 @@
       "timeline": [
         {
           "moved": -1,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
         }
@@ -44,7 +44,7 @@
       "timeline": [
         {
           "moved": 1,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
         }
@@ -64,7 +64,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -83,7 +83,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -109,7 +109,7 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z"
         }
       ],
@@ -133,7 +133,7 @@
     {
       "timeline": [
         {
-          "ringId": "adopt",
+          "ringId": "use",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "long description"
         },
@@ -175,8 +175,8 @@
   ],
   "rings": [
     {
-      "id": "adopt",
-      "name": "ADOPT",
+      "id": "use",
+      "name": "USE",
       "color": "#5BA300",
       "description": "Commodi accusantium culpa sed itaque excepturi rem eum nulla possimus."
     },
